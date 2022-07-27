@@ -1,0 +1,15 @@
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\bin\Debug\net6.0\UnitFourMovieDatabase.exe
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\bin\Debug\net6.0\UnitFourMovieDatabase.deps.json
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\bin\Debug\net6.0\UnitFourMovieDatabase.runtimeconfig.json
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\bin\Debug\net6.0\UnitFourMovieDatabase.dll
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\bin\Debug\net6.0\UnitFourMovieDatabase.pdb
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\obj\Debug\net6.0\UnitFourMovieDatabase.csproj.AssemblyReference.cache
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\obj\Debug\net6.0\UnitFourMovieDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\obj\Debug\net6.0\UnitFourMovieDatabase.AssemblyInfoInputs.cache
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\obj\Debug\net6.0\UnitFourMovieDatabase.AssemblyInfo.cs
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\obj\Debug\net6.0\UnitFourMovieDatabase.csproj.CoreCompileInputs.cache
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\obj\Debug\net6.0\UnitFourMovieDatabase.dll
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\obj\Debug\net6.0\refint\UnitFourMovieDatabase.dll
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\obj\Debug\net6.0\UnitFourMovieDatabase.pdb
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\obj\Debug\net6.0\UnitFourMovieDatabase.genruntimeconfig.cache
+C:\Users\12489\Repository2\GCUnit4MovieDatabase\UnitFourMovieDatabase\UnitFourMovieDatabase\obj\Debug\net6.0\ref\UnitFourMovieDatabase.dll
